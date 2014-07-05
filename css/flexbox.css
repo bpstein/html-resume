@@ -1,0 +1,10 @@
+/*.main {
+	-webkit-column-gap: 5em;
+	-webkit-column-rule: 2px dotted #070641;
+	-webkit-columns: 250px 2;
+}
+
+h1, h2 {
+	-webkit-column-span: all;
+}*/
+
